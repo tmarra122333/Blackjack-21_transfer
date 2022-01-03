@@ -3,7 +3,7 @@
 ## Objective of Game
 * Player attempts to beat the Dealer by getting as close to 21, without going over 21. 
 * If Player hits Blackjack: 21, Player automatically wins.  If Dealer hits Blackjack: 21, Dealer automatically wins.
-* If Player and Dealer hit Blackjack 21, its a tie or push.
+* If Player and Dealer hit Blackjack 21, Player wins.
 
 ## 52 Card Pack Rule
 * Standard 52 card deck
@@ -30,7 +30,12 @@
 * By selecting "Stand" Player will stay on the number they have been dealt. ie;
 (In the above scenario 5 of clubs and 4 of spades, if the Player selects hit and is dealt a King, their hand would be 19.  This is a good hand and the player would then want to select "Stand".)
 
+# Strategy
+* Ace can be used as a 1 or an 11, as stated earlier.  If Player is dealt a hand such as an Ace of spade and 4 of hearts, this is a SOFT 15.  It is considered soft because Player hand could be a 5 or a 15.  While 15 is not considered a good hand, player could "Hit" in hopes of next card being a 6, for a total of 21!
 
+ In the above example;
+
+ If the player did not recieve a 6 and instead received a 7, they would normally "Bust" as their hand would equal 22.  Since they have an Ace, the Ace would represent 1, instead of 11, and their hand would be at 12.  
 
 
 

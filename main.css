@@ -1,0 +1,19 @@
+.newGame-button {
+    color: black;
+    display: flex;
+    font-size: 30px;
+    font-weight: bold;
+    align-content:flex-end;
+    justify-content: center;
+    cursor: pointer;
+    height: 50px;
+    width: 200px;
+
+}
+
+.actionContainer {
+    display: flex;
+    align-content: flex-end;
+    justify-content: flex-end;
+    
+}
